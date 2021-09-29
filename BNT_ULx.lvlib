@@ -45,29 +45,35 @@ Copyright 2021 Holger.Brand@BrandNewTechnologies.de</Property>
 	<Property Name="Serialized ACL" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!A1%!!!@````]!!".V&lt;H.J:WZF:#"C?82F)'&amp;S=G&amp;Z!!%!!1!!!!A)!!!!#!!!!!!!!!!</Property>
 	<Property Name="Use Data Logging Database" Type="Bool">true</Property>
 	<Item Name="Data" Type="Folder">
-		<Item Name="BNT_ULx-MCSV-Data.lvclass" Type="LVClass" URL="../BNT_ULx-MCSV/BNT_ULx-MCSV-Data/BNT_ULx-MCSV-Data.lvclass"/>
+		<Item Name="BNT_ULx-MCSV-Data.lvclass" Type="LVClass" URL="../BNT_ULx-MCSV-Data/BNT_ULx-MCSV-Data.lvclass"/>
 	</Item>
 	<Item Name="Messages" Type="Folder">
 		<Item Name="Action" Type="Folder">
-			<Item Name="Set Delay Msg.lvclass" Type="LVClass" URL="../BNT_ULx-MCSV/BNT_ULx-MCSV-DOPWM Messages/Set Delay Msg/Set Delay Msg.lvclass"/>
-			<Item Name="Set Delays Msg.lvclass" Type="LVClass" URL="../BNT_ULx-MCSV/BNT_ULx-MCSV-DOPWM Messages/Set Delays Msg/Set Delays Msg.lvclass"/>
-			<Item Name="Set Length Msg.lvclass" Type="LVClass" URL="../BNT_ULx-MCSV/BNT_ULx-MCSV-DOPWM Messages/Set Length Msg/Set Length Msg.lvclass"/>
-			<Item Name="Set Lengths Msg.lvclass" Type="LVClass" URL="../BNT_ULx-MCSV/BNT_ULx-MCSV-DOPWM Messages/Set Lengths Msg/Set Lengths Msg.lvclass"/>
-			<Item Name="Set Output Line Msg.lvclass" Type="LVClass" URL="../BNT_ULx-MCSV/BNT_DAQmx-MCSV Messages/Set Output Line Msg/Set Output Line Msg.lvclass"/>
-			<Item Name="Set Output Lines Msg.lvclass" Type="LVClass" URL="../BNT_ULx-MCSV/BNT_DAQmx-MCSV Messages/Set Output Lines Msg/Set Output Lines Msg.lvclass"/>
-			<Item Name="Set Output Value Msg.lvclass" Type="LVClass" URL="../BNT_ULx-MCSV/BNT_DAQmx-MCSV Messages/Set Output Value Msg/Set Output Value Msg.lvclass"/>
-			<Item Name="Set Output Values Msg.lvclass" Type="LVClass" URL="../BNT_ULx-MCSV/BNT_DAQmx-MCSV Messages/Set Output Values Msg/Set Output Values Msg.lvclass"/>
-			<Item Name="Set Ratio Msg.lvclass" Type="LVClass" URL="../BNT_ULx-MCSV/BNT_ULx-MCSV-DOPWM Messages/Set Ratio Msg/Set Ratio Msg.lvclass"/>
-			<Item Name="Set Ratios Msg.lvclass" Type="LVClass" URL="../BNT_ULx-MCSV/BNT_ULx-MCSV-DOPWM Messages/Set Ratios Msg/Set Ratios Msg.lvclass"/>
+			<Item Name="Set Delay Msg.lvclass" Type="LVClass" URL="../BNT_ULx-MCSV-DOPWM Messages/Set Delay Msg/Set Delay Msg.lvclass"/>
+			<Item Name="Set Delays Msg.lvclass" Type="LVClass" URL="../BNT_ULx-MCSV-DOPWM Messages/Set Delays Msg/Set Delays Msg.lvclass"/>
+			<Item Name="Set Length Msg.lvclass" Type="LVClass" URL="../BNT_ULx-MCSV-DOPWM Messages/Set Length Msg/Set Length Msg.lvclass"/>
+			<Item Name="Set Lengths Msg.lvclass" Type="LVClass" URL="../BNT_ULx-MCSV-DOPWM Messages/Set Lengths Msg/Set Lengths Msg.lvclass"/>
+			<Item Name="Set Output Line Msg.lvclass" Type="LVClass" URL="../BNT_DAQmx-MCSV Messages/Set Output Line Msg/Set Output Line Msg.lvclass"/>
+			<Item Name="Set Output Lines Msg.lvclass" Type="LVClass" URL="../BNT_DAQmx-MCSV Messages/Set Output Lines Msg/Set Output Lines Msg.lvclass"/>
+			<Item Name="Set Output Value Msg.lvclass" Type="LVClass" URL="../BNT_DAQmx-MCSV Messages/Set Output Value Msg/Set Output Value Msg.lvclass"/>
+			<Item Name="Set Output Values Msg.lvclass" Type="LVClass" URL="../BNT_DAQmx-MCSV Messages/Set Output Values Msg/Set Output Values Msg.lvclass"/>
+			<Item Name="Set Ratio Msg.lvclass" Type="LVClass" URL="../BNT_ULx-MCSV-DOPWM Messages/Set Ratio Msg/Set Ratio Msg.lvclass"/>
+			<Item Name="Set Ratios Msg.lvclass" Type="LVClass" URL="../BNT_ULx-MCSV-DOPWM Messages/Set Ratios Msg/Set Ratios Msg.lvclass"/>
 		</Item>
-		<Item Name="Readout Msg.lvclass" Type="LVClass" URL="../BNT_ULx-MCSV/BNT_DAQmx-MCSV Messages/Readout Msg/Readout Msg.lvclass"/>
+		<Item Name="Readout Msg.lvclass" Type="LVClass" URL="../BNT_DAQmx-MCSV Messages/Readout Msg/Readout Msg.lvclass"/>
 	</Item>
-	<Item Name="BNT_ULx-MCSV-AIAvg.lvclass" Type="LVClass" URL="../BNT_ULx-MCSV/BNT_ULx-MCSV-AIAvg/BNT_ULx-MCSV-AIAvg.lvclass"/>
-	<Item Name="BNT_ULx-MCSV-Ctr2Freq.lvclass" Type="LVClass" URL="../BNT_ULx-MCSV/BNT_ULx-MCSV-Ctr2Freq/BNT_ULx-MCSV-Ctr2Freq.lvclass"/>
-	<Item Name="BNT_ULx-MCSV-DOPWM.lvclass" Type="LVClass" URL="../BNT_ULx-MCSV/BNT_ULx-MCSV-DOPWM/BNT_ULx-MCSV-DOPWM.lvclass"/>
-	<Item Name="BNT_ULx-MCSV-I.lvclass" Type="LVClass" URL="../BNT_ULx-MCSV/BNT_ULx-MCSV-I/BNT_ULx-MCSV-I/BNT_ULx-MCSV-I.lvclass"/>
-	<Item Name="BNT_ULx-MCSV-RTD.lvclass" Type="LVClass" URL="../BNT_ULx-MCSV/BNT_ULx-MCSV-RTD/BNT_ULx-MCSV-RTD.lvclass"/>
-	<Item Name="BNT_ULx-MCSV-TC.lvclass" Type="LVClass" URL="../BNT_ULx-MCSV/BNT_ULx-MCSV-TC/BNT_ULx-MCSV-TC.lvclass"/>
-	<Item Name="BNT_ULx-MCSV.lvclass" Type="LVClass" URL="../BNT_ULx-MCSV/BNT_ULx-MCSV/BNT_ULx-MCSV.lvclass"/>
+	<Item Name="Typedefs" Type="Folder">
+		<Item Name="Boolean Array PV.ctl" Type="VI" URL="../BNT_ULx-Typedefs/Boolean Array PV.ctl"/>
+		<Item Name="Boolean Channel PV.ctl" Type="VI" URL="../BNT_ULx-Typedefs/Boolean Channel PV.ctl"/>
+		<Item Name="Double Array PV.ctl" Type="VI" URL="../BNT_ULx-Typedefs/Double Array PV.ctl"/>
+		<Item Name="Double Channel PV.ctl" Type="VI" URL="../BNT_ULx-Typedefs/Double Channel PV.ctl"/>
+	</Item>
+	<Item Name="BNT_ULx-MCSV-AIAvg.lvclass" Type="LVClass" URL="../BNT_ULx-MCSV-AIAvg/BNT_ULx-MCSV-AIAvg.lvclass"/>
+	<Item Name="BNT_ULx-MCSV-Ctr2Freq.lvclass" Type="LVClass" URL="../BNT_ULx-MCSV-Ctr2Freq/BNT_ULx-MCSV-Ctr2Freq.lvclass"/>
+	<Item Name="BNT_ULx-MCSV-DOPWM.lvclass" Type="LVClass" URL="../BNT_ULx-MCSV-DOPWM/BNT_ULx-MCSV-DOPWM.lvclass"/>
+	<Item Name="BNT_ULx-MCSV-I.lvclass" Type="LVClass" URL="../BNT_ULx-MCSV-I/BNT_ULx-MCSV-I/BNT_ULx-MCSV-I.lvclass"/>
+	<Item Name="BNT_ULx-MCSV-RTD.lvclass" Type="LVClass" URL="../BNT_ULx-MCSV-RTD/BNT_ULx-MCSV-RTD.lvclass"/>
+	<Item Name="BNT_ULx-MCSV-TC.lvclass" Type="LVClass" URL="../BNT_ULx-MCSV-TC/BNT_ULx-MCSV-TC.lvclass"/>
+	<Item Name="BNT_ULx-MCSV.lvclass" Type="LVClass" URL="../BNT_ULx-MCSV/BNT_ULx-MCSV.lvclass"/>
 	<Item Name="BNT_ULx.ini" Type="Document" URL="../BNT_ULx.ini"/>
 </Library>
