@@ -37,6 +37,7 @@ External Dependencies
 	- InstaCal 6.72 – Installation and test utility with device drivers.
 	- MCC DAQ Software: https://www.mccdaq.com/swdownload
 	   - You need to install InstaCal and LabVIEW Support with MCCDAQ.exe in order to use this package.
+    - For LabVIEW 2021 support (beta) refer to https://www.mccdaq.com/downloads/LabVIEW2021_ULx/
   
 Known Issues
 ------------
